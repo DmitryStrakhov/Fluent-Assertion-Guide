@@ -1,0 +1,21 @@
+# VS-specific
+*.suo
+.vs/
+*.user
+
+# Temp files
+*.bak
+*.tmp
+
+# Build results
+bin/
+obj/
+
+# Nuget packages
+packages/
+
+# Resharper
+*.DotSettings
+
+# Idea
+.idea/
